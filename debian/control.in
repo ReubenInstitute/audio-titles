@@ -1,9 +1,0 @@
-Package: audiobible-titles
-Version: @VERSION@
-Architecture: all
-Maintainer: Reuben Institute <reubeninstitute@gmail.com>
-Installed-Size: @SIZE@
-Section: sound
-Priority: optional
-Description: Parashah and psalm titles, DarkKnox2 voice
- Parashah and psalm titles in the DarkKnox2 voice.
